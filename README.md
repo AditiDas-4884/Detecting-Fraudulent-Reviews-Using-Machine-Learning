@@ -1,6 +1,6 @@
 # Detecting Fraudulent Reviews Using Machine Learning
 
-This repository contains code and data for detecting fake reviews in the home appliances domain. The project involves preprocessing raw review data, applying count vectorization, performing TF-IDF transformation, and using three machine learning pipelines (Random Forest, Support Vector Machine, and Logistic Regression) for classification.
+This repository contains code, data, and supporting documents for detecting fake reviews in the home appliances domain. The project involves preprocessing raw review data, applying count vectorization, performing TF-IDF transformation, and using three machine learning pipelines (Random Forest, Support Vector Machine, and Logistic Regression) for classification.
 
 ## Project Structure
 
@@ -8,6 +8,8 @@ This repository contains code and data for detecting fake reviews in the home ap
 - **home appliances reviews.csv**: Raw dataset of home appliances reviews used for analysis.
 - **Preparation of Preprocessed Data.ipynb**: Notebook for preprocessing data before model training.
 - **Preprocessed Home Appliances Reviews Dataset.csv**: Preprocessed dataset generated from raw data, ready for model input.
+- **Detecting Fraudulent Reviews Using Machine Learning.pdf**: Dissertation preliminary report for M.Tech 3rd Semester.
+- **Detecting Fraudulent Reviews Using Machine Learning.pptx**: Presentation of Disseration preliminary project for M.Tech 3rd Semester.
 
 ## Project Workflow
 
@@ -35,3 +37,9 @@ For viewing `.ipynb` files properly on GitHub, use [nbviewer](https://nbviewer.o
   - `matplotlib`
   - `nltk`
   - `scikit-learn`
+  
+## Supporting Documents
+
+The repository also includes a detailed report and presentation prepared for the M.Tech 3rd Semester:
+- **PDF Report**: Comprehensive documentation of the project methodology and results.
+- **PowerPoint Presentation**: Summarized version of the project suitable for academic presentations.
