@@ -1,4 +1,4 @@
-# Fake Reviews Detection
+# Detecting Fraudulent Reviews Using Machine Learning
 
 This repository contains code and data for detecting fake reviews in the home appliances domain. The project involves preprocessing raw review data, applying count vectorization, performing TF-IDF transformation, and using three machine learning pipelines (Random Forest, Support Vector Machine, and Logistic Regression) for classification.
 
